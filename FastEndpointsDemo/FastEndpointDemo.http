@@ -1,0 +1,7 @@
+﻿
+@FastEndpointDemo_HostAddress = http://localhost:5287
+
+GET {{FastEndpointDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
